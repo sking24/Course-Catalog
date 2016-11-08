@@ -1,1 +1,39 @@
-/* YOUR STYLES */
+
+=
+/* TYPOGRAPHY */
+
+body {
+    font-family: 'Catamaran', sans-serif;
+}
+
+/* HEADER */
+
+.cd-header {
+    
+    background: #a10022;
+        
+}
+
+/* CONTENT CONTAINERS */
+
+.cd-gallery li.mix {
+    background: white;
+}
+
+.cd-tab-filter-wrapper {
+    background: black;
+}
+
+/* Grid View */
+.grid li.mix {
+    background: red;
+}
+
+/* List View */
+.list li.mix {
+    width: 100%;
+}
+
+.list li.mix p {
+    visibility: none;
+}
