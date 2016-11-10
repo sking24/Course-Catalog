@@ -32,9 +32,15 @@ body {
 .cd-gallery li.mix h1, h3 {
     background:  #a10022;
     padding: 6px;
-    color: white;
+    color: white;  
+}
+
+.cd-gallery li.mix h2 {
+    color: #a10022;
+    padding: 6px;
     
 }
+
 
 .cd-tab-filter-wrapper {
     background: black;
