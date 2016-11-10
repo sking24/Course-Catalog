@@ -1,5 +1,9 @@
 
 =
+
+
+
+
 /* TYPOGRAPHY */
 
 body {
@@ -10,14 +14,26 @@ body {
 
 .cd-header {
     
-    background: #a10022;
-        
+    background:  #a10022;
+   
+}
+
+.cd-header h1 {
+    line-height: 50px;
+    padding: 35px;
 }
 
 /* CONTENT CONTAINERS */
 
 .cd-gallery li.mix {
     background: white;
+}
+
+.cd-gallery li.mix h1, h3 {
+    background:  #a10022;
+    padding: 6px;
+    color: white;
+    
 }
 
 .cd-tab-filter-wrapper {
